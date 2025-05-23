@@ -14,7 +14,8 @@ This repository contains a mirror implementation of an e-commerce website, focus
 - User authentication and session management  
 - Shopping cart functionality  
 - Order processing and management  
-- Responsive design for various devices (inspired by TutorialsPoint tutorials)
+- Responsive design for various devices
+
 
 The project utilizes a combination of front-end and back-end technologies to simulate a real-world e-commerce environment.
 
@@ -48,7 +49,7 @@ The project utilizes a combination of front-end and back-end technologies to sim
   Users can create accounts and log in securely.
 
 - **Product Browsing:**  
-  View products by category, with detailed descriptions and images. (Inspired by Red Hat Developer tutorials)
+  View products by category, with detailed descriptions and images.
 
 - **Shopping Cart:**  
   Add, remove, and update product quantities in the cart.
@@ -69,11 +70,3 @@ To ensure the application functions correctly:
 - Verify product addition and removal from the shopping cart.  
 - Place test orders and check order management features.  
 - Access the admin panel and perform administrative tasks.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
