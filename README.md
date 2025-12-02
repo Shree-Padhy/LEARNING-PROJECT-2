@@ -70,3 +70,11 @@ To ensure the application functions correctly:
 - Verify product addition and removal from the shopping cart.  
 - Place test orders and check order management features.  
 - Access the admin panel and perform administrative tasks.
+
+---
+
+## 📜 License
+
+
+This project is protected under an "All Rights Reserved" license.
+No copying, modification, or distribution is permitted.
