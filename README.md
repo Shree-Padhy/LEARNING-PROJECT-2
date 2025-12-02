@@ -73,6 +73,15 @@ To ensure the application functions correctly:
 
 ---
 
+## 🤝 **Contributing**  
+
+❗ This is a restricted project.  
+Public contributions are not accepted.
+
+Feedback is welcome through issues , but code changes will only be reviewed from authorized contributors.
+
+---
+
 ## 📜 License
 
 
